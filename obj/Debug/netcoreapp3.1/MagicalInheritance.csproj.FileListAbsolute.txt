@@ -1,0 +1,13 @@
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\MagicalInheritance\bin\Debug\netcoreapp3.1\MagicalInheritance.exe
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\MagicalInheritance\bin\Debug\netcoreapp3.1\MagicalInheritance.deps.json
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\MagicalInheritance\bin\Debug\netcoreapp3.1\MagicalInheritance.runtimeconfig.json
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\MagicalInheritance\bin\Debug\netcoreapp3.1\MagicalInheritance.runtimeconfig.dev.json
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\MagicalInheritance\bin\Debug\netcoreapp3.1\MagicalInheritance.dll
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\MagicalInheritance\bin\Debug\netcoreapp3.1\MagicalInheritance.pdb
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\MagicalInheritance\obj\Debug\netcoreapp3.1\MagicalInheritance.csprojAssemblyReference.cache
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\MagicalInheritance\obj\Debug\netcoreapp3.1\MagicalInheritance.AssemblyInfoInputs.cache
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\MagicalInheritance\obj\Debug\netcoreapp3.1\MagicalInheritance.AssemblyInfo.cs
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\MagicalInheritance\obj\Debug\netcoreapp3.1\MagicalInheritance.csproj.CoreCompileInputs.cache
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\MagicalInheritance\obj\Debug\netcoreapp3.1\MagicalInheritance.dll
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\MagicalInheritance\obj\Debug\netcoreapp3.1\MagicalInheritance.pdb
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\MagicalInheritance\obj\Debug\netcoreapp3.1\MagicalInheritance.genruntimeconfig.cache
