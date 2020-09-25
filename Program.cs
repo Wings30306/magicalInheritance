@@ -6,7 +6,8 @@ namespace MagicalInheritance
     {
         static void Main(string[] args)
         {
-            Storm storm = new Storm("Zul'rajas", false, "wind");
+            Pupil pupil = new Pupil("Mezil-Kree");
+            Storm storm = pupil.CastWindStorm();
             Console.WriteLine(storm.Announce());
         }
     }
