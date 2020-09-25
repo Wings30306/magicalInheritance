@@ -15,6 +15,12 @@ namespace MagicalInheritance
             Console.WriteLine(mageRainStorm.Announce());
             Storm mageWindStorm = mage.CastWindStorm();
             Console.WriteLine(mageWindStorm.Announce());
+
+            Archmage archmage = new Archmage("Nielas Aran");
+            Storm archmageRainStorm = archmage.CastRainStorm();
+            Console.WriteLine(archmageRainStorm.Announce());
+            Storm archmageLightningStorm = archmage.CastLightningStorm();
+            Console.WriteLine(archmageLightningStorm.Announce());
         }
     }
 }

@@ -9,7 +9,7 @@ namespace MagicalInheritance
         public Mage(string name) : base(name)
         {}
 
-        public Storm CastRainStorm()
+        public virtual Storm CastRainStorm()
         {
             Storm storm = new Storm(Title, false, "rain");
             return storm;
